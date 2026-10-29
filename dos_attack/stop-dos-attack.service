@@ -1,0 +1,8 @@
+[Unit]
+Description=Servicio que revisa el número de conexiones
+
+[Service]
+ExecStart=/usr/local/bin/stop-dos-attack.sh
+
+[Install]
+WantedBy=multi-user.target
