@@ -1,0 +1,6 @@
+{
+  "tg_token": "8891810581:AAFXMI875XVNE0ZN8oRPMBblWTHcB1x606g",
+  "tg_chat": "8271975382",
+  "site": "Mi red",
+  "allow_block": true
+}
